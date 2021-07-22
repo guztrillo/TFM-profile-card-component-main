@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [3-column preview card component solution](https://guztrillo.github.io/TFM-3-column-preview-card-component-main/)
+- Live Site URL: [Profile card component solution](https://guztrillo.github.io/TFM-profile-card-component-main/)
 
 ## My process
 
