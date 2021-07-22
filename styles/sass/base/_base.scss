@@ -9,10 +9,12 @@ html, body {
      height: 100vh; 
 }
 
+// ../../images/bg-pattern-top.svg
 
 body {
      background-color: $dark-cyan;
-     background-image: url("/images/bg-pattern-top.svg"), url("/images/bg-pattern-bottom.svg");
+     // background-image: url("/images/bg-pattern-top.svg"), url("/images/bg-pattern-bottom.svg");
+     background-image: url(../../images/bg-pattern-top.svg), url(../../images/bg-pattern-bottom.svg);
      background-position: bottom 35vh right 50vw, top 53vh left 47vw;
      background-repeat: no-repeat;
 }
