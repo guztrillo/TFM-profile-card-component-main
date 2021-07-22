@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+
+.card {
+     color: $grayish-blue;
+     font-family: 'Kumbh Sans', sans-serif;
+}
+
+.card-stat-number, .card-profile-name {
+     color: $very-dark-blue;
+     font-size: 18px;
+     font-weight: 700;
+}
+
+.card-profile-age {
+     color: $grayish-blue;
+     font-weight: 400;
+}
+
+.card-profile-location{
+     font-size: 13px;
+}
+
+.card-stat-category{
+     font-size: 10px;
+     letter-spacing: 2px;
+}
